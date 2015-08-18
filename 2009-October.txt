@@ -1,0 +1,9 @@
+From bruno.mevel at snr.fr  Mon Oct 26 10:52:37 2009
+From: bruno.mevel at snr.fr (bruno.mevel at snr.fr)
+Date: Mon, 26 Oct 2009 10:52:37 +0100
+Subject: [Mksqlite-users] extremely slow
+Message-ID: <OF825ED1C1.5276BC8F-ONC125765B.0036419F-C125765B.003641A7@snr.fr>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/mksqlite-users/attachments/20091026/d61e8e04/attachment.html>
+
